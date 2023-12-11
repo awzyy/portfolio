@@ -7,11 +7,11 @@
 - Welcome to my portfolio, scroll down for more!
 
 ## About
-I'm Théo, 22yo junior web developper mainly doing front end projects. I also have some back end experience with languages and databases
+I'm Théo, 22yo junior web developper mainly doing front end projects. I also have some back end experience with languages and databases. I studied IT and electronics in college and recently started an online training to become a web developper.
 
 ## Contact
-Feel free to contact me using the form below or simply by sending me and email at this adress:
-- LinkedIn: https://linkedin.com/in/username
+Feel free to contact me by sending me an email at this adress:
+- LinkedIn: https://www.linkedin.com/in/théo-nataf-577452208/
 - GitHub: https://github.com/awzyy
 - Email: awzyy.pro@gmail.com
 

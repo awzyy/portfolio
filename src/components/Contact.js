@@ -10,7 +10,7 @@ import {
 } from "@chakra-ui/react";
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import ProfileArray from "./ProfileArray";
-import ContactForm from "./ContactForm";
+// import ContactForm from "./ContactForm";
 
 export default function Contact({ color }) {
   const profile = ProfileArray();
@@ -49,7 +49,7 @@ export default function Contact({ color }) {
             <Text color={`${color}.500`} fontWeight={600} fontSize={"lg"} px={4}>
               {profile.email}
             </Text>
-            <ContactForm />
+            {/* <ContactForm /> */}
             <Center>
               <HStack pt={4} spacing={4}>
                 <FaLinkedin onClick={linkedin} size={28} />
