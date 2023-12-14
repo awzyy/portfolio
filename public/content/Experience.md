@@ -3,7 +3,7 @@
 - ![React](../assets/reacticon.svg)
 - Tags: WebDev
 - Badges:
-  - Web [blue]
+  - JS library [blue]
 - List Items:
   - Most popular library to build user interfaces using components
 
@@ -12,7 +12,7 @@
 - ![Redux](../assets/reduxicon.svg)
 - Tags: WebDev
 - Badges:
-  - Web [blue]
+  - JS library [blue]
 - List Items:
   - Open-source library for managing and centralizing application state
 
@@ -21,7 +21,7 @@
 - ![HTML](../assets/htmlicon.svg)
 - Tags: WebDev
 - Badges:
-  - Web [blue]
+  - Web language [blue]
 - List Items:
   - The standard markup language for documents designed to be displayed in a web browser
 
@@ -30,7 +30,7 @@
 - ![CSS](../assets/cssicon.svg)
 - Tags: WebDev
 - Badges:
-  - Web [blue]
+  - Web styling language[blue]
 - List Items:
   - Style sheet language used to define styles for web pages
 
@@ -39,7 +39,7 @@
 - ![Sass](../assets/sassicon.svg)
 - Tags: WebDev
 - Badges:
-  - Web [blue]
+  - CSS preprocessor [blue]
 - List Items:
   - Preprocessor scripting language for CSS
 
@@ -48,7 +48,7 @@
 - ![JS](../assets/javascripticon.svg)
 - Tags: WebDev
 - Badges:
-  - Web [blue]
+  - Web language [blue]
 - List Items:
   - Programming language that is one of the core technologies of the Web
 
@@ -66,7 +66,7 @@
 - ![MongoDB](../assets/mongoicon.svg)
 - Tags: WebDev
 - Badges:
-  - Web [blue]
+  - Database [blue]
 - List Items:
   - NoSQL database management application
 
@@ -75,7 +75,7 @@
 - ![PHP](../assets/phpicon.svg)
 - Tags: WebDev
 - Badges:
-  - Web [blue]
+  - Web language [blue]
 - List Items:
   - Scripting language geared towards web development
 
@@ -186,3 +186,31 @@
   - Database [blue]
 - List Items:
   - MySQL is an open-source relational database management system
+
+## Openclassrooms
+- *Online training* | 2023
+- ![OC](../assets/ocicon.png)
+- Tags: Education
+- Badges:
+  - Web Training [blue]
+- List Items:
+  - Learning web developpement for the past year through online training
+
+## DUT GEII
+- *Online training* | 2020-2021
+- ![OC](../assets/duticon.png)
+- Tags: Education
+- Badges:
+  - Electronics Training [blue]
+- List Items:
+  - Learnt about electronics for a year before i had to stop because of health issues
+
+## IT college
+- *Online training* | 2018-2019
+- ![OC](../assets/duticon.png)
+- Tags: Education
+- Badges:
+  - Programming Training [blue]
+- List Items:
+  - Learnt about IT programming languages, databases and other tools
+
