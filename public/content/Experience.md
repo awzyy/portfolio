@@ -187,6 +187,15 @@
 - List Items:
   - MySQL is an open-source relational database management system
 
+## English
+- *C1 level* |
+- ![EN](../assets/enicon.png)
+- Tags: Other
+- Badges:
+  - Language [blue]
+- List Items:
+  - I speak english fluently since i use daily for various reasons
+
 ## Openclassrooms
 - *Online training* | 2023
 - ![OC](../assets/ocicon.png)
